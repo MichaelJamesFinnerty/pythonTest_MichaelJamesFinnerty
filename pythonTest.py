@@ -1,5 +1,7 @@
+import eu.mihosoft.vrl.v3d.Cube as Cube
+
 print dyio
 
-result = eu.mihosoft.vrl.v3d.Cube(20).toCSG()
+result = Cube(20).toCSG()
 
 print "Result = ",result
