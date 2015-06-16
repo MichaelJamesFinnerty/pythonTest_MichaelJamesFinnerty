@@ -1,5 +1,5 @@
 import eu.mihosoft.vrl.v3d.Cube as Cube
-import time
+import datetime
 
 for i in range(100):
-  println "Testt"
+  print "Test " datetime.datetime.now()
