@@ -1,7 +1,5 @@
 import eu.mihosoft.vrl.v3d.Cube as Cube
+import time
 
-print dyio
-
-csg = Cube(20).toCSG()
-
-print "Result = ",csg
+for i in range(100):
+  println "Testt"
