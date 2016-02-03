@@ -1,6 +1,3 @@
-import time
-import eu.mihosoft.vrl.v3d.Cube as Cube
+import com.neuronrobotics.bowlerstudio.BowlerKernel as BowlerKernel
 
-for i in range(100):
-  print i
-
+BowlerKernel.speak("You can write scripts in Python")
