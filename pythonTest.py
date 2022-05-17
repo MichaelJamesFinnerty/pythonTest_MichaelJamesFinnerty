@@ -1,3 +1,3 @@
-import com.neuronrobotics.bowlerstudio.BowlerKernel as BowlerKernel
+import com.neuronrobotics.bowlerstudio.BowlerKernel as BigKorn
 
-BowlerKernel.speak("You can write scripts in Python")
+BigKorn.speak("Ba-cawck!    Bu      bu    bu    bu-cawck!")
